@@ -1,0 +1,2 @@
+http://localhost:8100/currency-convert-feign/from/EUR/to/INR/quantity/100
+http://localhost:8765/currency-conversion-service/currency-convert-feign/from/EUR/to/INR/quantity/100
