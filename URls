@@ -1,0 +1,10 @@
+#to convert currency
+http://localhost:8100/currency-convert-feign/from/EUR/to/INR/quantity/100
+
+
+#Eureka naming server
+http://localhost:8761/
+
+# zipkin distributed systen Docker
+http://localhost:9411/zipkin
+
